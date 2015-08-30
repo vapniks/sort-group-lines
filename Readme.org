@@ -1,0 +1,10 @@
+* Commentary
+
+ - Bitcoin donations gratefully accepted :: 12k9zUo9Dgqk8Rary2cuzyvAQWD5EAuZ4q
+
+This file provides a single command `sort-group-lines' for sorting lines into groups matching regular expressions.
+
+* Installation
+
+ - Download the library from here Lisp:sort-group-lines, and put it in a directory in the emacs load path, like ~/.emacs.d
+ - Add (require 'sort-group-lines) in your ~/.emacs file
